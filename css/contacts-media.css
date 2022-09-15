@@ -1,0 +1,229 @@
+/*! Mobile*/
+
+/*! 991px */
+@media (max-width: 991px) {
+    .page {
+        position: relative;
+    }
+
+    /*! header*/
+    .header {
+        height: 100px;
+        width: 90%;
+
+    }
+    .header-logo img {
+        display: block;
+        width: 70px;
+        margin-top: 50%;
+    }
+
+   .header-subtitle {
+    margin-top: 8px;
+   }
+
+
+    /*! Nav*/
+    .nav {
+        height: 40px;
+        margin-top: 4%;
+       }
+
+       .nav-link {
+
+        width: 90%;
+        font: normal 20px Roboto;
+        line-height: 40px;
+       }
+
+       .nav-link a::after {
+        bottom: 8px;
+       }
+
+       /*! Orientir*/
+        .orientir {
+        max-width: 90%;
+        margin: 20px auto 0 auto;
+        }
+
+         /*! Contacts*/
+        .contacts {
+            margin: 5% auto 0 4.5%;
+            max-width: 90%;
+
+        }
+
+
+        .contact-link a:hover {
+            color: black;
+        }
+
+
+        /*! Footer*/
+        .footer {
+        width: 90%;
+        margin: 150px auto 30px auto;
+        font: normal 10px Montserrat;
+        }
+
+    }
+
+@media only screen and (max-width: 767px) {
+
+    .page {
+        position: relative;
+    }
+    /*! header*/
+    .header {
+        display: flex;
+        justify-content: space-between;
+        height: 100px;
+        width: 90%;
+        margin-top: -2%;
+    }
+    .header-logo img {
+        display: block;
+        width: 50px;
+        margin-top: 70%;
+    }
+   .header-title {
+       font-size: 12px;
+   }
+   .header-subtitle {
+    font-size: 20px;
+    margin-top: 8px;
+   }
+   .header-text p {
+       font-size: 20px;
+   }
+
+   .header-link a {
+       font-size: 12px;
+   }
+   .header-link a::after {
+       display: none;
+   }
+   .header-img {
+       width: 12px;
+   }
+
+   /*! Nav*/
+   .nav {
+    display: block;
+    height: 40px;
+    background: linear-gradient(to bottom, #FF3399, #FF0066);
+    width: 100%;
+    margin: 0 auto;
+   }
+   .nav-link {
+
+    font: normal 12px Roboto;
+    line-height: 40px;
+   }
+   .nav-link a {
+       color: rgb(0, 0, 0);
+   }
+   .nav-link a::after {
+    display: none;
+}
+    /*! Orientir*/
+    .orientir {
+    width: 91%;
+    margin: 2% auto 0 auto;
+    font: 12px Roboto;
+   }
+
+   /*! Contacts*/
+    .contact-link a {
+
+    display: inline-block;
+    text-decoration: none;
+    color: #333333;
+}
+
+    .contact-link a:hover {
+    color: black;
+}
+
+    .contact-link  img {
+    height: 24px;
+    margin-top: 1%;
+}
+
+/* !Footer*/
+.footer {
+    margin: 15% auto 0 4.5%;
+    font: normal 10px Montserrat;
+}
+}
+
+
+@media (max-width: 575px) {
+
+    /*! header*/
+    .header {
+
+       height: 100px;
+       width: 90%;
+       margin-top: -2%;
+   }
+   .header-logo img {
+       display: none;
+
+   }
+
+   .header-title {
+      font-size: 12px;
+   }
+   .header-subtitle {
+   font-size: 16px;
+   margin-top: 8px;
+   color: #FF0066;
+  }
+
+  .header-text p {
+      font-size: 16px;
+  }
+
+
+  .header-link a {
+      font-size: 10px;
+  }
+
+  .header-link a::after {
+      display: none;
+  }
+
+  .header-img {
+      width: 10px;
+  }
+
+  /*! Nav*/
+  .nav {
+   display: block;
+   height: 40px;
+   background: linear-gradient(to bottom, #FF3399, #FF0066);
+   width: 100%;
+   margin: 0 auto;
+  }
+  .nav-link {
+   font: normal 12px Roboto;
+   line-height: 40px;
+  }
+
+  .nav-link a {
+      color: rgb(0, 0, 0);
+  }
+
+  .nav-link a::after {
+   display: none;
+   }
+
+}
+
+@media (max-width: 356px) {
+
+    .contacts {
+        font: bold 20px Montserrat;
+    }
+}

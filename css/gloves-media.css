@@ -1,0 +1,303 @@
+/*! Mobile*/
+
+/*! 991px */
+@media (max-width: 991px) {
+    .page {
+        position: relative;
+    }
+
+    /*! header*/
+    .header {
+        height: 100px;
+        width: 90%;
+
+    }
+    .header-logo img {
+        display: block;
+        width: 70px;
+        margin-top: 50%;
+    }
+
+   .header-subtitle {
+    margin-top: 8px;
+   }
+
+
+    /*! Nav*/
+    .nav {
+        height: 40px;
+        margin-top: 4%;
+       }
+
+       .nav-link {
+
+        width: 90%;
+        font: normal 20px Roboto;
+        line-height: 40px;
+       }
+
+       .nav-link a::after {
+        bottom: 8px;
+       }
+
+       /*! Orientir*/
+        .orientir {
+        max-width: 90%;
+        margin: 20px auto 0 auto;
+        }
+
+        /*! Content*/
+
+        .content {
+
+        justify-content: space-between;
+        width: 90%;
+        position: relative;
+        }
+
+        .content_image {
+        margin-top: -2%;
+        }
+
+        /*! Footer*/
+        .footer {
+        width: 90%;
+        margin: 150px auto 30px auto;
+        font: normal 10px Montserrat;
+        }
+    }
+
+
+     /*! 767px */
+@media (max-width: 767px) {
+    /*! header*/
+
+    .header-logo {
+        width: 50px;
+    }
+   .header-logo img {
+    display: block;
+    margin-top: 70%;
+}
+   .header-title {
+       font-size: 12px;
+   }
+   .header-subtitle {
+    font-size: 20px;
+    margin-top: 8px;
+    color: #FF0066;
+   }
+   .header-text p {
+       font-size: 20px;
+   }
+
+   .header-link a {
+       font-size: 12px;
+   }
+   .header-link a::after {
+    display: none;
+   }
+   .header-img {
+       width: 12px;
+   }
+
+    /*! Nav*/
+    .nav {
+        display: block;
+        height: 40px;
+        background: linear-gradient(to bottom, #FF3399, #FF0066);
+        width: 100%;
+        margin: 0 auto;
+       }
+       .nav-link {
+
+        font: normal 12px Roboto;
+        line-height: 40px;
+       }
+       .nav-link a::after {
+           display: none;
+       }
+
+       /*! Orientir*/
+       .orientir {
+        width: 91%;
+        margin: 2% auto 0 auto;
+        font: 12px Roboto;
+       }
+
+        /*! Content*/
+
+        .content {
+
+        width: 90%;
+        position: relative;
+        }
+
+        .content_image {
+        margin-top: -2%;
+        }
+
+        .content img {
+        max-width: 200px;
+        width: 100%;
+        }
+
+        .content-text {
+        font-family: Montserrat;
+        font-size: 12px;
+        position: absolute;
+        top: 0;
+        left: 25%;
+        }
+
+        .content-text h2 {
+        font-size: 14px;
+        margin-bottom: 15px;
+        }
+
+        .content-text p {
+        line-height: 1.5;
+        }
+
+        .price {
+        margin: 50% 0 0 0;
+        }
+
+        .price h3 {
+        font-size: 22px;
+
+        position: absolute;
+        top: 50%;
+        left: 0;
+        }
+
+}
+
+@media (max-width: 575px) {
+
+    /*! header*/
+    .header {
+
+        height: 100px;
+        width: 90%;
+        margin-top: -2%;
+    }
+    .header-logo  {
+        display: none;
+
+    }
+
+    .header-title {
+       font-size: 12px;
+    }
+    .header-subtitle {
+    font-size: 16px;
+    margin-top: 8px;
+    color: #FF0066;
+   }
+
+   .header-text p {
+       font-size: 16px;
+   }
+
+
+   .header-link a {
+       font-size: 10px;
+   }
+
+   .header-link a::after {
+       display: none;
+   }
+
+   .header-img {
+       width: 10px;
+   }
+
+   /*! Nav*/
+   .nav {
+    display: block;
+    height: 40px;
+    background: linear-gradient(to bottom, #FF3399, #FF0066);
+    width: 100%;
+    margin: 0 auto;
+   }
+   .nav-link {
+    font: normal 12px Roboto;
+    line-height: 40px;
+   }
+
+   .nav-link a {
+       color: rgb(0, 0, 0);
+   }
+
+   .nav-link a::after {
+    display: none;
+    }
+
+
+   /*! Content*/
+
+   .content {
+
+    width: 90%;
+    position: relative;
+    }
+
+    .content_image {
+    margin-top: -2%;
+    }
+
+    .content img {
+    max-width: 150px;
+    width: 100%;
+    }
+
+    .content-text {
+    font-family: Montserrat;
+    font-size: 12px;
+    position: absolute;
+    top: 0;
+    left: 15%;
+    }
+
+    .content-text h2 {
+    font-size: 12px;
+    margin-bottom: 15px;
+    }
+
+    .content-text p {
+    line-height: 1.5;
+    }
+
+    .price {
+    margin: 50% 0 0 0;
+    }
+
+    .price h3 {
+    font-size: 18px;
+    position: absolute;
+    top: 72%;
+    left: 0;
+    }
+
+    .price p {
+        font-size: 10px;
+        position: absolute;
+        top: 87%;
+        left: 0;
+    }
+
+
+}
+
+@media (max-width: 356px) {
+
+    .price h3 {
+        top: 75%;
+        }
+
+        .price p {
+            top: 85%;
+        }
+
+}

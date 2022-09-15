@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="35.6534mm" height="35.6534mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 1756.49 1756.49"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil2 {fill:#FEFEFE}
+    .fil1 {fill:url(#id2)}
+    .fil0 {fill:url(#id3)}
+   ]]>
+  </style>
+    <mask id="id0">
+  <linearGradient id="id1" gradientUnits="userSpaceOnUse" x1="644.84" y1="-118.86" x2="986.74" y2="966.4">
+   <stop offset="0" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </linearGradient>
+     <rect style="fill:url(#id1)" x="-4.35" y="-4.35" width="1765.18" height="1765.18"/>
+    </mask>
+  <linearGradient id="id2" gradientUnits="userSpaceOnUse" x1="918.21" y1="154.5" x2="1233.37" y2="1161.12">
+   <stop offset="0" style="stop-opacity:1; stop-color:#4366CA"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#DD4282"/>
+  </linearGradient>
+  <radialGradient id="id3" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.74866 -1.74866 1.74866 1.74866 -3106 -639)" cx="333.73" cy="1633.53" r="614.77" fx="333.73" fy="1633.53">
+   <stop offset="0" style="stop-opacity:1; stop-color:#FFDD55"/>
+   <stop offset="0.490196" style="stop-opacity:1; stop-color:#FA5148"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#C837AB"/>
+  </radialGradient>
+ </defs>
+ <g id="Слой_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="instagram-seeklogo.com.cdr">
+   <path class="fil0" d="M394.32 0l967.84 0c216.88,0 394.32,177.44 394.32,394.32l0 967.84c0,216.88 -177.44,394.32 -394.32,394.32l-967.84 0c-216.88,0 -394.32,-177.44 -394.32,-394.32l0 -967.84c0,-216.88 177.44,-394.32 394.32,-394.32z"/>
+   <path class="fil1" style="mask:url(#id0)" d="M394.32 0l967.84 0c216.88,0 394.32,177.44 394.32,394.32l0 967.84c0,216.88 -177.44,394.32 -394.32,394.32l-967.84 0c-216.88,0 -394.32,-177.44 -394.32,-394.32l0 -967.84c0,-216.88 177.44,-394.32 394.32,-394.32z"/>
+   <path class="fil2" d="M593.44 230.83l569.6 0c199.44,0 362.61,163.17 362.61,362.61l0 569.6c0,199.44 -163.17,362.61 -362.61,362.61l-569.6 0c-199.44,0 -362.61,-163.17 -362.61,-362.61l0 -569.6c0,-199.44 163.17,-362.61 362.61,-362.61zm2.32 114.08l564.96 0c137.97,0 250.85,112.88 250.85,250.85l0 564.96c0,137.97 -112.88,250.85 -250.85,250.85l-564.96 0c-137.97,0 -250.85,-112.88 -250.85,-250.85l0 -564.96c0,-137.97 112.88,-250.85 250.85,-250.85z"/>
+   <path class="fil2" d="M880.03 661.69c119.01,0 215.47,96.47 215.47,215.47 0,119.01 -96.47,215.48 -215.47,215.48 -119,0 -215.47,-96.47 -215.47,-215.48 0,-119 96.47,-215.47 215.47,-215.47zm0 -118.99c184.72,0 334.47,149.74 334.47,334.46 0,184.72 -149.75,334.47 -334.47,334.47 -184.72,0 -334.46,-149.75 -334.46,-334.47 0,-184.72 149.74,-334.46 334.46,-334.46z"/>
+   <circle class="fil2" cx="1224.15" cy="531.44" r="77.18"/>
+  </g>
+ </g>
+</svg>
