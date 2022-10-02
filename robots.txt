@@ -1,6 +1,0 @@
-User-agent:
-Crawl-delay: 1
-Host: https://golden-gloves.ru/
-Sitemap: http://https://golden-gloves.ru/goldenGloves.xml
-
-
